@@ -1,4 +1,4 @@
-import { Direction } from "../enums/directions";
+import { Direction } from "../enums/direction";
 
 export interface ValidationResult {
   isFormatValid: boolean;
